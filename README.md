@@ -49,7 +49,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [Tailwind](https://tailwindcss.org/) - CSS Framework
+- [Tailwind](https://tailwindcss.com/) - CSS Framework
 
 
 ### What I learned
